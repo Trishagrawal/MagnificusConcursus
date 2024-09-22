@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Magnificus-Concursus/static/css/main.934b549e.css",
+    "main.js": "/Magnificus-Concursus/static/js/main.20cf839d.js",
+    "static/media/a.jpg": "/Magnificus-Concursus/static/media/a.009978b30f29c6c1b300.jpg",
+    "static/media/b.jpg": "/Magnificus-Concursus/static/media/b.07d32d43d735feeeff3f.jpg",
+    "index.html": "/Magnificus-Concursus/index.html",
+    "main.934b549e.css.map": "/Magnificus-Concursus/static/css/main.934b549e.css.map",
+    "main.20cf839d.js.map": "/Magnificus-Concursus/static/js/main.20cf839d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.934b549e.css",
+    "static/js/main.20cf839d.js"
+  ]
+}
